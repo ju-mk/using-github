@@ -1,1 +1,25 @@
+Using GitHub!
 
+REPOSITORIES: used to organise a single project. Include a README page (such as this one) with information about it.
+>In the upper right corner, next to your avatar or identicon, click and then select New repository.
+>Name your repository.
+>Write a short description.
+>Select Initialize this repository with a README.
+
+BRANCHES: the MAIN is the definitive branch. Before commiting changes to it, it's advisable to create branches to experiment and make edits before commiting it to the main.
+>Go to your new repository.
+>Click the drop down at the top of the file list that says branch: main.
+>Type a branch name into the new branch text box (new_branch_1).
+>Select the blue Create branch box or hit “Enter” on your keyboard.
+
+MAKE AND COMMIT CHANGES
+When you're on the code view of your new branch, make some edits. Saved changes are called COMMITS. Ideally, you should write a COMMIT MESSAGE explaining what was changed, so other contributors can understand what you've done and why.
+>Click the new_branch_1.md file.
+>Click the  pencil icon in the upper right corner of the file view to edit.
+>In the editor, write the changes/code.
+>Write a commit message that describes your changes.
+>Click Commit changes button.
+
+OPENING PULL REQUESTS: you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. 
+Pull requests show diffs, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+>Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.
